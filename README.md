@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # workstation
@@ -13,3 +14,6 @@ Forked 2024 Walter Dundore
 Copyright 2021, 2023  Kris Lamoureux
 
 This project is licensed under the 0BSD license, a public-domain-equivalent license. Please refer to the LICENSE file contained in the repository.
+=======
+# ansible-control
+>>>>>>> 5a09881332ef00c23b77a45590d1a80139eaf188
