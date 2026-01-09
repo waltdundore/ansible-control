@@ -1,0 +1,11 @@
+---
+# Main tasks for the common role
+
+- name: Import chrony tasks
+  import_tasks: chrony.yml
+
+- name: Import prerequisite tasks
+  import_tasks: prerequisites.yml
+
+- name: Import base applications tasks
+  import_tasks: base_apps.yml
